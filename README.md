@@ -1,4 +1,4 @@
-![Banner de Luis Orlando Guerra González](https://ruta-de-tu-imagen.png)
+
   <h1 align="center">👋 ¡Hola! / Hello! I'm <strong>Luis Orlando Guerra González</strong></h1>
 
 <h3 align="center">🧠 Tecnólogo en formación | Full Stack Developer in training | Apasionado por la IA y la transformación digital</h3>
